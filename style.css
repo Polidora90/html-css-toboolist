@@ -33,7 +33,6 @@ header {
     background-color: white;
     margin: auto;
     margin-top: 50px;
-    padding-left: 50px;
     font-family: 'Inter', sans-serif;
     font-size: 20px;
     padding-bottom: 40px;
@@ -119,4 +118,12 @@ li {
 
 nav {
     border-bottom: 3px solid antiquewhite;
+}
+
+.main-list {
+    padding-left: 50px;
+}
+
+.buttons {
+    padding-left: 50px;
 }
