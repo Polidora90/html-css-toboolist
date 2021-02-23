@@ -42,3 +42,41 @@ button {
 #logo-container {
     display: inline-block;
 }
+
+.main-element {
+    margin-top: 40px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.tag {
+    display: inline-block;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.lightblue {
+    background-color: #47adf1;
+}
+
+.purple {
+    background-color: #9c72e4;
+}
+
+.green {
+    background-color: #64c0a9;
+}
+
+.orange {
+    background-color: #f29e33;
+}
+
+.pink {
+    background-color: #d863a1;
+}
+
+.lightgreen {
+    background-color: #b0c926;
+}
