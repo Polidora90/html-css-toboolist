@@ -23,6 +23,7 @@ header {
     height: 120px;
     font-size: 70px;
     line-height: 120px;
+    vertical-align: top;
 }
 
 .container {
@@ -38,3 +39,6 @@ button {
     margin-bottom: 10px;
 }
 
+#logo-container {
+    display: inline-block;
+}
