@@ -9,16 +9,12 @@ body {
 }
 
 header {
-    height: 120px;
     background-color: white;
 }
 
 #logo {
     height: 100px;
     margin: 10px;
-}
-
-#logo-container {
     vertical-align: middle;
 }
 
@@ -124,10 +120,7 @@ nav {
     border-bottom: 3px solid antiquewhite;
 }
 
-.main-list {
+.main-list, .buttons {
     padding-left: 50px;
 }
 
-.buttons {
-    padding-left: 50px;
-}
