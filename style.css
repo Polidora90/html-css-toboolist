@@ -18,12 +18,16 @@ header {
     margin: 10px;
 }
 
+#logo-container {
+    vertical-align: middle;
+}
+
 #logo-text {
     display: inline-block;
     height: 120px;
     font-size: 70px;
     line-height: 120px;
-    vertical-align: top;
+    vertical-align: middle;
     color: #051931;
     font-family: 'Roboto', sans-serif;
 }
